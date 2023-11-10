@@ -30,4 +30,4 @@ Listagem dos repositórios[^1] referentes a disciplina *Programação em Banco d
 - [Prova P1](https://github.com/RonaldoSouzaChaves/fatecipi-bdn-pbd1-projetoP1)
 - Prova P2
 
-[^1]: Repositórios desenvolvidos em conjunto com @laisuchoa.
+[^1]: Repositórios desenvolvidos em conjunto com [@laisuchoa](https://github.com/laisuchoa).
